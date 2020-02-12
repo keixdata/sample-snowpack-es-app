@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@blueprintjs/core": "./@blueprintjs/core.js?rev=0bfee2afe1",
+    "@emotion/core": "./@emotion/core.js?rev=6127def37a",
+    "@emotion/styled": "./@emotion/styled.js?rev=eba156c05f",
+    "emotion": "./emotion.js?rev=b4f7de3f8d",
+    "formik": "./formik.js?rev=707baa95ce",
+    "papaparse": "./papaparse.js?rev=e43eb0d9e5",
+    "react": "./react.js?rev=85d5d57cfb",
+    "react-dom": "./react-dom.js?rev=86e7292ed2"
+  }
+}
