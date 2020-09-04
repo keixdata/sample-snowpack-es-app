@@ -23,7 +23,7 @@
     "@types/react-dom": "^16.9.5",
     "emotion": "^10.0.27",
     "formik": "^2.1.4",
-    "papaparse": "^5.1.1",
+    "papaparse": "^5.2.0",
     "react": "npm:@keix/react",
     "react-dom": "npm:@keix/react-dom"
   },
